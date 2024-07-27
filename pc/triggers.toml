@@ -1,0 +1,9 @@
+[triggers]
+1 = "set_red"
+250 = "set_yellow"
+443 = "set_flashing_yellow"
+4203 = "set_red"
+5716 = "set_yellow"
+6001 = "set_double_yellow"
+6100 = "set_green"
+7266 = "set_red"
